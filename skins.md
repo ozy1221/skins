@@ -9,3 +9,6 @@
 
 # [tekkitomathi](https://cdn.discordapp.com/attachments/794190206491688970/1110578828390191204/tekkitomathi.osk)
 ![screenshot249](https://user-images.githubusercontent.com/37017946/210902843-aca9103e-447c-45fa-8e70-cf0c49fe331d.png)
+
+# [akiangel ozy edit](https://cdn.discordapp.com/attachments/794190206491688970/1113702349622476800/akiangel.osk)
+![screenshot030](https://github.com/ozy1221/skins/assets/134404665/ebae544d-958b-44ea-8afe-5781efcb071e)
