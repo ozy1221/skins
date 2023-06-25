@@ -12,3 +12,6 @@
 
 # [akiangel ozy edit](https://cdn.discordapp.com/attachments/794190206491688970/1113702349622476800/akiangel.osk)
 ![screenshot030](https://github.com/ozy1221/skins/assets/134404665/ebae544d-958b-44ea-8afe-5781efcb071e)
+
+# [CW instafade 20211023 gamma white](https://cdn.discordapp.com/attachments/794190206491688970/1122477313959932034/CW_instafade_20211023_gamma_white.osk)
+![screenshot033](https://github.com/ozy1221/skins/assets/134404665/8861e812-e596-44a5-92e8-f82ab2ff3ab6)
