@@ -15,3 +15,7 @@
 
 # [CW instafade 20211023 gamma white](https://cdn.discordapp.com/attachments/794190206491688970/1122477313959932034/CW_instafade_20211023_gamma_white.osk)
 ![screenshot033](https://github.com/ozy1221/skins/assets/134404665/8861e812-e596-44a5-92e8-f82ab2ff3ab6)
+
+# [zibi purple](https://cdn.discordapp.com/attachments/794190206491688970/1133980944227901570/zibi_purpel.osk)
+![image](https://github.com/ozy1221/skins/assets/134404665/0c853227-a5e4-4d72-a008-644f45cbfc9a)
+
