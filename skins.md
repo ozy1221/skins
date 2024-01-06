@@ -19,3 +19,5 @@
 # [zibi purple](https://cdn.discordapp.com/attachments/794190206491688970/1133980944227901570/zibi_purpel.osk)
 ![image](https://github.com/ozy1221/skins/assets/134404665/0c853227-a5e4-4d72-a008-644f45cbfc9a)
 
+# [aristiatekkito](https://cdn.discordapp.com/attachments/794190206491688970/1193096795740459008/aristiatekkito.osk?ex=65ab78fa&is=659903fa&hm=9a17397d76075bea699625d7f026dc497f0a88de77662594057dcd032a00f6bc&)
+![screenshot138](https://github.com/ozy1221/skins/assets/113712921/43ae6127-63db-42bb-95d4-3e07e8392515)
